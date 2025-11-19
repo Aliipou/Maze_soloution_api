@@ -1,7 +1,7 @@
 # Learning Diary: Intelligent Device Backend Integration
 ## Arduino WiFi Rev2 Maze-Based Waking System Backend Development
 
-**Student Name:** [Your Name]
+**Student Name:** 
 **Project Duration:** November 19, 2025
 **Course:** Backend Development / IoT Integration
 
