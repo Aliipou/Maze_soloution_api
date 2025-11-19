@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-Successfully implemented a complete backend API for an Arduino-based assistive waking system that uses a physical mechanical maze with metal balls and Hall sensor detection. The system is **100% functional** with comprehensive testing and validation.
+Successfully implemented a complete backend API for an Arduino-based assistive waking system that uses a physical mechanical maze with metal balls and Hall sensor detection. The system is ** functional** with comprehensive testing and validation.
 
 ### Key Achievements
 
